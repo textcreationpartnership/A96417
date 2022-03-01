@@ -1,0 +1,191 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The nevvest and truest, and most vnpartiall relation of all the late occurrence which hath happened at Sherbourne-Castle, and thereabouts. Being the extract of divers severall letters, sent from worthy persons of good credit and qualitie, to a speciall friend in London.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96417</idno>
+            <idno type="STC">Wing W1A</idno>
+            <idno type="STC">Thomason E117_4</idno>
+            <idno type="STC">ESTC R17876</idno>
+            <idno type="EEBO-CITATION">99860289</idno>
+            <idno type="PROQUEST">99860289</idno>
+            <idno type="VID">156063</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96417)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156063)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 21:E117[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The nevvest and truest, and most vnpartiall relation of all the late occurrence which hath happened at Sherbourne-Castle, and thereabouts. Being the extract of divers severall letters, sent from worthy persons of good credit and qualitie, to a speciall friend in London.</title>
+                  <author>A. W.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed September 14. 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"The latest relation from Sherburne-Castle" signed A.W.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sherborne (Dorset, England) --  History --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-03</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="text">
+            <pb facs="tcp:156063:1" rendition="simple:additions"/>
+            <p>THE NEVVEST AND TRVEST, AND MOST VNPARTIALL RELATION OF ALL THE LATE Occurrence which hath happened at SHERBOURNE-CASTLE, and thereabouts.</p>
+            <p>Being the Extract of divers ſeverall Letters, ſent from worthy Perſons of good credit and qualitie, to a ſpeciall friend in LONDON.</p>
+            <p>Printed <hi>September</hi> 14. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:156063:2"/>
+            <pb n="1" facs="tcp:156063:2"/>
+            <div type="letter">
+               <head>THE LATEST RELATION from SHERBURN-CASTLE.</head>
+               <opener>
+                  <salute>SIR,</salute>
+               </opener>
+               <p>
+                  <seg rend="decorInit">I</seg> Know how dangerous it is to write in this time, if my letter be intercepted, and kept cloſe, yet Truth will break out; and indeed I challenge and defie any, which dare lay an untruth to the charge of this Relation, appealing to the conſcience of all that know the paſſage thereof.</p>
+               <p>On this day ſennight being Saterday, the Earl of <hi>Bedford</hi> appeared before <hi>Sherborn</hi> Caſtle, His Forces conſiſted partly of <hi>Devonſhire</hi> men (whereof ſome 400. came to <hi>D<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rcheſter</hi> on Tueſday laſt as I take it, but ſure I am, a Miniſter rode very demurely before them with a Bible in his hand, and many of them by their habit were judged men of good qualitie) as alſo men of <hi>Dorſet</hi> and <hi>Sommerſetſhire.</hi> Many of them advanced ſlowly and ſadly, and you know the Nature of Weſt<g ref="char:EOLhyphen"/>countrey men, who moſt of them holding their means for their lives, were loath to hazard their lives and lifely hood at one adventure.</p>
+               <p>The men of the Town of <hi>Sherborn</hi> (preſumed to be
+<pb n="2" facs="tcp:156063:3"/> of the Earl of <hi>Bedfords</hi> ſide) declared themſelves other<g ref="char:EOLhyphen"/>wiſe, and with their ſhot did much annoyance to his men<g ref="char:punc">▪</g> There h<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>h paſſed many skirm<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſhes<g ref="char:punc">▪</g> betwixt the M<gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>ſſe of <hi>Hartford's</hi> men and the Earl of <hi>Bedfords,</hi> with the chance of warre; ſometimes the one and ſome<g ref="char:EOLhyphen"/>times the other had the better.</p>
+               <p>At laſt the Countrey men began to think that Fea<g ref="char:EOLhyphen"/>therbeds were better lodging then the hard earth, which made many of them (if you will have it in the beſt phraſe) withdraw themſelves away, which I doubt not but will willingly come back again to ſee an happy agreement betwixt the King and Parliament. The Earl of <hi>Bedford</hi> with thoſe that were left, diſcamped; and re<g ref="char:EOLhyphen"/>treated to <hi>Yevell,</hi> (4 little miles from <hi>Sherborn</hi>) where the Lord Marqueſſe and the Lord <hi>Paulet</hi> Bid him Bat<g ref="char:EOLhyphen"/>tell, and there followed an hard and hot Encounter, wherein the Marqueſſe had the beſt of it.</p>
+               <p>Sir, I am ſorry to report that an hundred men were ſlain on the Earls ſide, which I am afraid will prove too true, and the adjacent Towns will dolefully witneſſe that I am no lyer<g ref="char:punc">▪</g> many of them were men of qualitie, as appeared by their buriall in the Church of <hi>Yevel.</hi>
+               </p>
+               <p>If M. <hi>Trenchard;</hi> Sir <hi>Thomas Trenchards</hi> elder ſonne, be ſl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>in (as it is credibly reported) I ſhall be an he<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>vie mourner at his funerall. But ſhould be a hear<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>er re<g ref="char:EOLhyphen"/>joycer if he be preſerved alive, to do good ſervice for God, his King and Countrey.</p>
+               <p>On the Marqueſſes ſide were ſlain ten Muskettiers, none men of any qualitie. And he hath taken Captain <hi>Hungerford,</hi> and eight others, priſoners.</p>
+               <p>On the other ſide in the time of their Bickering, the Earl of <hi>Bedford</hi> took priſoner Captain <hi>Bamfeild,</hi> and
+<pb n="3" facs="tcp:156063:3"/> five other of the Marqueſſes men. And thus we ſee if theſe wofull times continue, Parties may mutually get the Conqueſt; but the whole <hi>Engliſh</hi> Nation, with the Proteſtant Religion, Church and State, muſt be a looſer.</p>
+               <p>The Earl of <hi>Bedford</hi> with his Troops fairly retreated to <hi>Dorcheſter,</hi> It is our hopes and our prayers that King and Parliament may ſo agree, that we may effectually ſtop the Bleeding Eſtate of <hi>Ireland.</hi> And now Sir know I have plaid with you the fore-game in friendſhip, and expect (how dangerous ſoever the times be) ſome re<g ref="char:EOLhyphen"/>quitall of <hi>London</hi> news from you, which I fear will be as ſad and ſorrowfull as what we have here written.</p>
+               <closer>
+                  <signed>Yours, A. W.</signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <pb n="4" facs="tcp:156063:4"/>
+               <head>
+                  <hi>Another Letter from</hi> Sherborn-Caſtle.</head>
+               <opener>
+                  <salute>SIR,</salute>
+               </opener>
+               <p>
+                  <seg rend="decorInit">T</seg>Hoſe miſtakings and omiſſions which haſt made in my laſt Intelligence, I pray cor<g ref="char:EOLhyphen"/>rect and ſupply by theſe preſents.</p>
+               <p>On Friday laſt the 2. of this Moneth, the Earle of <hi>Bedford</hi> pitcht his Siege be<g ref="char:EOLhyphen"/>fore <hi>Sherbourne,</hi> with eight hundred Horſe, five thou<g ref="char:EOLhyphen"/>ſand Foot, with twelve pieces of Ordnance. Thoſe in the Caſtle were not above ſix hundred horſe and foot, and two ſmall feild Pieces.</p>
+               <p>On Saturday, the Earle began his Battery, and ap<g ref="char:EOLhyphen"/>proached the Towne, wherein many of the Townſmen ſhooting out of their Windows, kild ſome few, and wounded more of the Earles men.</p>
+               <p>On Sunday, thoſe in the Caſtle hung out the White Flag, deſiring reſt that day, which the others little re<g ref="char:EOLhyphen"/>garding continued their Battery; and this occaſioned ſome ſhot from the Caſtle, which tooke no effect, but the hindrance of their worke.</p>
+               <p>On Munday, many Cannon-ſhot were made at the Caſtle, Towne, and Church-Steeple, but with little harme.</p>
+               <p>Tueſday Morning, the Earle proclaimed a ſeſſation of Armes, and commanded them all to remove their
+<pb n="5" facs="tcp:156063:4"/> Ammunition and Artillery to <hi>Yevell,</hi> which that night was done accordingly.</p>
+               <p>Wedneſday betwixt foure and five of the clock in the after-noone, ſome of the Caſtle-Troopes went out, onely to take the Ayre, and ſee what was become of the Earles Armie, wearing no Armes but Swords and Gunnes, and many having but two ſhots a peece. The Earles men having notice thereof ſet upon them. Here was hot ſervice, and the Caſtle-men twice charging ſo repelled thoſe that aſſaulted them, that they began to retreat.</p>
+               <p>But the reſt of the Earles Armie endevoured (whi<g ref="char:EOLhyphen"/>leſt their fellows fought) to get behinde the Caſtle-Troops, and ſo to cut them off in their retreat. Where<g ref="char:EOLhyphen"/>upon the Caſtle men deſiſted from any further charge, and forced their paſſage through ſuch as lay behinde them home to the Caſtle, whither they all came ſafe, ſaving nine men who were kild upon the place, and five taken priſoners, whereof Sergeant Major <hi>Bamfeild</hi> was one.</p>
+               <p>One of the nine ſlaine was a <hi>Dorſet ſhire</hi> Gentleman Captain <hi>H: Huſſey,</hi> whilſt they had him at their mer<g ref="char:EOLhyphen"/>cy, they moſt barbarouſly cut off his members, and then did him the favour to kill him.</p>
+               <p>Of the Earles ſide the loſſe was great, but uncertain, the River hard by buried many of them, as appeareth by divers Horſes ſince fou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d floating in it, and ſeaven men of that Company were openly buried in <hi>Yevell</hi>-Church the next morning; and they ſay many buried privately in a Hill there by, which how true it is, God knowes: Thirtie of their Horſes were taken and car<g ref="char:EOLhyphen"/>ried
+<pb n="6" facs="tcp:156063:5"/> to the Caſtle; and with them ſeaven taken priſo<g ref="char:EOLhyphen"/>ners, whereof Captain <hi>Hungerford</hi> was chiefe.</p>
+               <p>Thurſday, the Earles Forces were diſmiſſed by his Command, and diſperſed themſelves, whileſt he him<g ref="char:EOLhyphen"/>ſelfe retreated to <hi>Dortcheſter.</hi>
+               </p>
+               <p>I had almoſt forgotten a ſad Accident. Whileſt the <hi>Devonſhire-men</hi> were diſtributing their Powder, and ready to beſiege the Caſtle, two Barrells taking fire, kild ſome men, ſcald and maimd many, to the number of ſixteene.</p>
+               <p>God turne our ſwords into ſythes, that leaving all acts of Hoſtilitie, we may peaceably receive the fruits of the Earth. Helpe us with your Prayers to GOD, that by the agreement of King and Parliament, we may enjoy a happy peace.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
